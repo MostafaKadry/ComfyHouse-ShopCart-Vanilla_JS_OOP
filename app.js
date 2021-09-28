@@ -105,7 +105,7 @@ class UI {
           // display cart item
           this.addCartItem(cartItem);
           // showing cart
-          this.showCart();
+//           this.showCart();
         });
       }
     });
